@@ -1,0 +1,26 @@
+[
+  {
+    "title": "INTERACTIVE WEB-TOOLS SUITE",
+    "imageSrc": "projects/web-apps.webp",
+    "description": "This is collection of mini web-apps like weather app, todo list etc,.",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "CRYPT-O-GEAR",
+    "imageSrc": "projects/crypt.webp",
+    "description": "This tool will provide the user to choose the best option about the crypto currency.",
+    "skills": ["Python"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "VI-PRO - A Virtual programming language laboratory",
+    "imageSrc": "projects/vipro.webp",
+    "description": "An indispensable tool for modern education.",
+    "skills": ["MERN Stack"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

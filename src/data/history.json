@@ -1,0 +1,43 @@
+[
+  {
+    "role": "Multimedia Designer",
+    "organization": "A2A POINT",
+    "period": "May-July 2024",
+    "experiences": [
+      "Designed engaging app launch videos and UI for A2A Point",
+      "Create website and app mockup images using figma"
+    ],
+    "imageSrc": "history/a2apoint.svg"
+  },
+  {
+    "role": "SWE (Intern)",
+    "organization": "BGSW",
+    "period": "Jan-April 2024",
+    "experiences": [
+      "Developed a RAM room analysis tool for memory utilization insights",
+      "Automated reports with visual metrics, graphs, and charts"
+    ],
+    "imageSrc": "history/bgsw.png"
+  },
+  {
+    "role": "SWE (Intern)",
+    "organization": "BGSW",
+    "period": "July-Augest 2023",
+    "experiences": [
+      "Worked on the TFMS management system project, focusing on test automation with RFW and JMeter",
+      "Utilized Grafana for analytics and reporting"
+    ],
+    "imageSrc": "history/bgsw.png"
+  },
+
+  {
+    "role": "Intern",
+    "organization": "GR SOFT TECH",
+    "period": "July-Aug 2022",
+    "experiences": [
+      "Gained hands-on experience in HTML, CSS, and JavaScript",
+      "Helped  to create UI components"
+    ],
+    "imageSrc": "history/grsoft.png"
+  }
+]

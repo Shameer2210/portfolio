@@ -1,0 +1,36 @@
+[
+  {
+    "title": "HTML",
+    "ImageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "ImageSrc": "skills/css.png"
+  },
+  {
+    "title": "Javascript",
+    "ImageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "ImageSrc": "skills/react.png"
+  },
+  {
+    "title": "redux",
+    "ImageSrc": "skills/redux.png"
+  },
+  {
+    "title": "Python",
+    "ImageSrc": "skills/python.png"
+  },
+
+
+  {
+    "title": "Figma",
+    "ImageSrc": "skills/figma.png"
+  },
+  {
+    "title": "Des-Tools",
+    "ImageSrc": "skills/adobe.png"
+  }
+]
