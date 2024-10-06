@@ -7,7 +7,7 @@ const Hero = () => {
     <section className={styles.container}>
       <div className={styles.content}>
         <h1 className={styles.title}>Hi,I'm Shameer</h1>
-        <p className={styles.description}>Frontend developer</p>
+        <p className={styles.description}>Aspiring Web & Python Developer</p>
         <div className={styles.buttons}>
           <a
             href="mailto:k.shameer2235@gmail.com"

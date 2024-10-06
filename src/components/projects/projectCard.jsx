@@ -17,11 +17,11 @@ const ProjectCard = ({
           );
         })}
         <div className={styles.links}>
-          <a className={styles.link} href={demo}>
+          {/* <a className={styles.link} href={demo}>
             Demo
-          </a>
+          </a> */}
           <a className={styles.link} href={source}>
-            source
+            source-code
           </a>
         </div>
       </ul>

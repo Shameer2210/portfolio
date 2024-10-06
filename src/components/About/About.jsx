@@ -22,7 +22,7 @@ const About = () => {
               <h3>Frontend Developer</h3>
               <p className={styles.paratext}>
                 Specializing in designing responsive, high-performance websites
-                that offer seamless user experiences
+                that offer seamless user experiences.
               </p>
             </div>
           </li>
@@ -35,7 +35,7 @@ const About = () => {
               <h3>Python Programmer</h3>
               <p className={styles.paratext}>
                 Expert in writing clean, efficient Python code to develop
-                scalable solutions and automate tasks effectively
+                scalable solutions and automate tasks effectively.
               </p>
             </div>
           </li>
@@ -48,7 +48,7 @@ const About = () => {
               <h3>Designer</h3>
               <p className={styles.paratext}>
                 Skilled in creating visually compelling designs and multimedia
-                content that enhance user engagement across platforms
+                content that enhance user engagement across platforms.
               </p>
             </div>
           </li>

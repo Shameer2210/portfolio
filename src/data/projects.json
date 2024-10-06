@@ -5,7 +5,7 @@
     "description": "This is collection of mini web-apps like weather app, todo list etc,.",
     "skills": ["HTML", "CSS", "JS"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Shameer2210"
   },
   {
     "title": "CRYPT-O-GEAR",
@@ -13,7 +13,7 @@
     "description": "This tool will provide the user to choose the best option about the crypto currency.",
     "skills": ["Python"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Shameer2210/crpto-o-gear"
   },
   {
     "title": "VI-PRO - A Virtual programming language laboratory",
@@ -21,6 +21,8 @@
     "description": "An indispensable tool for modern education.",
     "skills": ["MERN Stack"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Shameer2210/virtual-lab"
   }
+
+  
 ]

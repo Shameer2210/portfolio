@@ -6,7 +6,7 @@ const Contact = () => {
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
         <h2>Contact</h2>
-        <p>Feel free to reach out</p>
+        <p>Feel free to reach out !</p>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
@@ -28,6 +28,12 @@ const Contact = () => {
           <img src={getImageUrl("contact/githubIcon.png")}></img>
           <a href="https://github.com/Shameer2210" target="_blank">
             Shameer2210
+          </a>
+        </li>
+        <li className={styles.link}>
+          <img src={getImageUrl("contact/phone.png")}></img>
+          <a href="tel:9944235594" target="_blank">
+            +91 9944235594
           </a>
         </li>
       </ul>
