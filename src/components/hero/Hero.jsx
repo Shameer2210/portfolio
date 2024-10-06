@@ -24,6 +24,7 @@ const Hero = () => {
       <img
         src={getImageUrl("about/hero-image.png")}
         className={styles.heroimage}
+        alt="Shameer k"
       ></img>
       <div className={styles.topBlur}> </div>
       <div className={styles.bottomBlur}> </div>

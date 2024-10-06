@@ -17,6 +17,7 @@ const About = () => {
             <img
               src={getImageUrl("about/frontend.png")}
               className={styles.eachImage}
+              alt="frontend"
             ></img>
             <div className={styles.abouttexts}>
               <h3>Frontend Developer</h3>
@@ -30,6 +31,7 @@ const About = () => {
             <img
               src={getImageUrl("about/python.png")}
               className={styles.eachImage}
+              alt="python"
             ></img>
             <div className={styles.abouttexts}>
               <h3>Python Programmer</h3>
@@ -43,6 +45,7 @@ const About = () => {
             <img
               src={getImageUrl("about/design.png")}
               className={styles.eachImage}
+              alt="design"
             ></img>
             <div className={styles.abouttexts}>
               <h3>Designer</h3>
