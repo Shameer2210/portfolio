@@ -64,12 +64,14 @@
 
   .text p {
     text-align: center;
-    font-size: 30px;
+    font-size: 21px;
   }
 
   .link {
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    word-break: break-all;
     text-align: center;
     justify-content: center;
     align-items: center;
@@ -84,5 +86,9 @@
     padding: 10px 10px;
     border-radius: 10px;
     gap: 10px;
+  }
+
+  .link a {
+    font-size: 25px;
   }
 }

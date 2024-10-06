@@ -13,6 +13,7 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  margin-bottom: 25px;
 }
 
 .content {
@@ -102,7 +103,7 @@
 
 @media screen and (max-width: 830px) {
   .content {
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: center;
     gap: 34px;
   }
@@ -115,5 +116,11 @@
   .history {
     width: 100%;
     gap: 9px;
+  }
+
+  .expContent {
+    text-align: start;
+    text-indent: -36px;
+    padding-left: 36px;
   }
 }
